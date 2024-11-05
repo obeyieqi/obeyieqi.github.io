@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://obeyieqi.github.io/ELs/sitemap_index.txt
+Sitemap: https://obeyieqi.github.io/Uvo/sitemap_index.txt
+Sitemap: https://obeyieqi.github.io/bjq/sitemap_index.txt
+Sitemap: https://obeyieqi.github.io/wDg/sitemap_index.txt
